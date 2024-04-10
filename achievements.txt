@@ -1,0 +1,20 @@
+1 add torrent -
+5 add torrent -
+50 add torrent -
+500 add torrent -
+1 download torrent -
+50 download torrent -
+500 download torrent -
+1 000 download torrent D -
+2 000 download torrent D -
+1 write comment -
+10 write comment -
+20 write comment -
+50 write comment D -
+100 write comment D -
+1 rating torrent -
+10 rating torrent -
+20 rating torrent -
+50 rating torrent D -
+Upload avatar -
+Add profile 'About me' -
